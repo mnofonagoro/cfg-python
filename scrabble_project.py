@@ -8,23 +8,23 @@ ten_letter_point = ['q', 'z']
 
 
 def scrabble_word_count(word):
-    res = 0
+    points = 0
     for letter in word:
         if letter in one_letter_point:
-            res += 1
+            points += 1
         elif letter in two_letter_point:
-            res += 2
+            points += 2
         elif letter in three_letter_point:
-            res += 3
+            points += 3
         elif letter in four_letter_point:
-            res += 4
+            points += 4
         elif letter in five_letter_point:
-            res += 5
+            points += 5
         elif letter in eight_letter_point:
-            res += 8
+            points += 8
         elif letter in ten_letter_point:
-            res += 10
-    return res
+            points += 10
+    return points
 
 
 
