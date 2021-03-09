@@ -10,4 +10,4 @@ The player gets randomly assigned a Pokemon, which is taken from the API, and is
 
 
 ### scrabble_project
-###### A function that quickly and easily counts the number of points for any word that is inputted.
+A function that quickly and easily counts the number of points for any word that is inputted.
