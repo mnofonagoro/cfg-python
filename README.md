@@ -1,4 +1,4 @@
-# cfg-python
+# Code First Girls
 
 ### CFG_PROJECT1: Top Trumps Using Pokemon API
 This was the final group project on the Code First Girls Introduction to Python Programming course.
